@@ -13,5 +13,7 @@ firebase.initializeApp({
     projectId: "adrianqugaic43",
     storageBucket: "adrianqugaic43.appspot.com",
     messagingSenderId: "2079137743",
-    appId: "1:2079137743:web:9660b
+    appId: "1:2079137743:web:9660bf1f70d2e8ea49bcba",
+    measurementId: "G-YXR80DQ2TM"
+
 });
