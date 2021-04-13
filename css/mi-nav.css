@@ -1,6 +1,6 @@
 mi-nav {
   display: block;
-  background-color:rgb(131, 182, 173)
+  background-color:red
     var(--colorMiNav);
 
 }
