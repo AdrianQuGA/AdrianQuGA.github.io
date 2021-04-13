@@ -1,8 +1,8 @@
 mi-nav {
-  display: inline-block;
+  display:block;
   background-color:rgb(131, 182, 173);
     var(--colorMiNav);
-  height: 10px;
+  height: 150px;
     width: 15%;
 }
 
