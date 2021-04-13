@@ -1,5 +1,5 @@
 mi-nav {
-  display: block;
+  display: inline-block;
   background-color:rgb(131, 182, 173);
     var(--colorMiNav);
   height: 10px;
@@ -7,7 +7,7 @@ mi-nav {
 }
 
 mi-nav ul {
-  display: inline-block;
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
