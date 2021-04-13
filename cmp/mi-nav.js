@@ -13,8 +13,8 @@ class MiNav extends HTMLElement {
   connectedCallback() {
     this.innerHTML = /* html */
       `
-<ul class="navbar-nav">
-        <li class="nav-item">
+<ul>
+        <li>
           <a class="nav-link active" aria-current="page" href="inicioSesion.html" style="font-size:20px;">Inicio</a>
         </li>
         </li>
