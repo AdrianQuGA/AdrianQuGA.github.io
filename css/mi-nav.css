@@ -4,6 +4,7 @@ mi-nav {
     var(--colorMiNav);
     height: 100%;
     width: 100%;
+  color: brown;
 }
 
 mi-nav ul {
