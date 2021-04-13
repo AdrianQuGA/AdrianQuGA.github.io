@@ -2,7 +2,7 @@ mi-nav {
   display: block;
   background-color:rgb(131, 182, 173);
     var(--colorMiNav);
-  height: 50px;
+  height: 10px;
     width: 33%;
 }
 
