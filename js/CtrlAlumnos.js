@@ -80,9 +80,6 @@ function htmlFila(doc) {
   "alumno.html?${parámetros}">
         <strong class="primario">
           ${nombre}
-          ${telefono}
-          ${grupo}
-          ${fecha}
         </strong>
       </a>
     </li>`);
