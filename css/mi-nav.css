@@ -2,13 +2,14 @@ mi-nav {
   display: block;
   background-color:rgb(131, 182, 173)
     var(--colorMiNav);
-    height: 100px;
-    width: 40%;
+     height: 100%;
+    width: 100%;
 }
 
 mi-nav ul {
   display: flex;
-
+  justify-content: center;
+  align-items: center;
   flex-flow: wrap;
   list-style: none;
   padding: 0;
