@@ -84,7 +84,7 @@ async function guarda(evt) {
         formData, "telefono").trim();
         const grupo = getString(
           formData, "grupo").trim();
-          const nombre = getString(
+          const fecha = getString(
             formData, "fecha").trim();
     /**
      * @type {
