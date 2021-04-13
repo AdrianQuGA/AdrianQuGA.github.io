@@ -4,8 +4,7 @@ mi-nav {
 }
 
 mi-nav ul {
-    background-color:rgb(131, 182, 173);
-  display: flex;
+   
   justify-content: center;
   align-items: center;
   flex-flow: wrap;
