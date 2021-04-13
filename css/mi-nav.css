@@ -2,6 +2,8 @@ mi-nav {
   display: block;
   background-color:rgb(131, 182, 173);
     var(--colorMiNav);
+  height: 50px;
+    width: 100%;
 }
 
 mi-nav ul {
