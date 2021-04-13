@@ -3,7 +3,7 @@ mi-nav {
   background-color:rgb(131, 182, 173);
     var(--colorMiNav);
   height: 10px;
-    width: 33%;
+    width: 15%;
 }
 
 mi-nav ul {
