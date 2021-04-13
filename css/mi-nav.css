@@ -1,13 +1,10 @@
 mi-nav {
   display: block;
-  background-color:rgb(131, 182, 173)
     var(--colorMiNav);
-    height: 100%;
-    width: 100%;
-  color: brown;
 }
 
 mi-nav ul {
+    background-color:rgb(131, 182, 173);
   display: flex;
   justify-content: center;
   align-items: center;
