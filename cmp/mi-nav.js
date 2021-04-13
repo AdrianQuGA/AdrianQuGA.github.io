@@ -8,13 +8,15 @@ import {
   muestraError
 } from "../lib/util.js";
 
+ 
 class MiNav extends HTMLElement {
   connectedCallback() {
     this.innerHTML = /* html */
-      `<ul>
-        <li>
-         <a href="inicioSesion.html">
-            Sesión</a>
+      `
+<ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="inicioSesion.html" style="font-size:20px;">Inicio</a>
+        </li>
         </li>
       </ul>`;
     this.ul =
