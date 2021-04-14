@@ -56,7 +56,7 @@ p label {
 p label>* {
   display: block;
   font-weight: normal;
-  font-size: 30px;
+  font-size: 200px;
   box-sizing: border-box;
   width: 100%;
 }
