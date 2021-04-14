@@ -4,14 +4,14 @@ class MiFooter
     this.innerHTML = /* html */
       `<footer class="footer">
       <div class="footer__addr">
-        <h1 class="footer__logo">Something</h1>
+        <h1 class="footer__logo">Información</h1>
             
-        <h2>Contact</h2>
+        <h2>Contacto</h2>
         
         <address>
-          5534 Somewhere In. The World 22193-10212<br>
+          Nezahualcoyotl,Sin numero<br>
               
-          <a class="footer__btn" href="mailto:example@gmail.com">Email Us</a>
+          <a class="footer__btn" href="proyectofinal43qga@gmail.com">Correo de contacto</a>
         </address>
       </div>
       
@@ -21,45 +21,45 @@ class MiFooter
     
           <ul class="nav__ul">
             <li>
-              <a href="#">Online</a>
+              <a href="#">carreras</a>
             </li>
     
             <li>
-              <a href="#">Print</a>
+              <a href="#">Cordinacion</a>
             </li>
                 
             <li>
-              <a href="#">Alternative Ads</a>
+              <a href="#">Anuncios</a>
             </li>
           </ul>
         </li>
         
         <li class="nav__item nav__item--extra">
-          <h2 class="nav__title">Technology</h2>
+          <h2 class="nav__title">Proyectos</h2>
           
           <ul class="nav__ul nav__ul--extra">
             <li>
-              <a href="#">Hardware Design</a>
+              <a href="#">UTN</a>
             </li>
             
             <li>
-              <a href="#">Software Design</a>
+              <a href="#">Software</a>
             </li>
             
             <li>
-              <a href="#">Digital Signage</a>
+              <a href="#">Digital</a>
             </li>
             
             <li>
-              <a href="#">Automation</a>
+              <a href="#">Calificaciones</a>
             </li>
             
             <li>
-              <a href="#">Artificial Intelligence</a>
+              <a href="#">traduccion</a>
             </li>
             
             <li>
-              <a href="#">IoT</a>
+              <a href="#"> XD</a>
             </li>
           </ul>
         </li>
@@ -69,25 +69,25 @@ class MiFooter
           
           <ul class="nav__ul">
             <li>
-              <a href="#">Privacy Policy</a>
+              <a href="#">politicas</a>
             </li>
             
             <li>
-              <a href="#">Terms of Use</a>
+              <a href="#">Terminos y condiciones</a>
             </li>
             
             <li>
-              <a href="#">Sitemap</a>
+              <a href="#">Mas..</a>
             </li>
           </ul>
         </li>
       </ul>
       
       <div class="legal">
-        <p>&copy; 2019 Something. All rights reserved.</p>
+        <p>&copy; 2021 Adrian Quintanar Guerrero. Todos los derechos reservados.</p>
         
         <div class="legal__links">
-          <span>Made with <span class="heart">♥</span> remotely from Anywhere</span>
+          <span>Made with <span class="heart">♥</span> Contactanos...</span>
         </div>
       </div>
     </footer>`;
