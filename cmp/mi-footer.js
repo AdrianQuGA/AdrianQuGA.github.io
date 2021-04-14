@@ -87,7 +87,7 @@ class MiFooter
         <p>&copy; 2021 Adrian Quintanar Guerrero. Todos los derechos reservados.</p>
         
         <div class="legal__links">
-          <span>Made with <span class="heart">♥</span> Contactanos...</span>
+          <span>Hecho con <span class="heart">♥</span> HTML,JS,FIREBASE,GITHUB...</span>
         </div>
       </div>
     </footer>`;
